@@ -1,7 +1,7 @@
 from Utilities import xloperations as e
 
 
-excel_path =r"C:\Users\GANMAHES\RobotPlatform\testcase_file.xlsx"
+excel_path =r"testcase_file.xlsx"
 sheetNo = "Sheet4"
 
 
